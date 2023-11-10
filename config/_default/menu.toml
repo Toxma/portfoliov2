@@ -8,17 +8,40 @@
 #newtab = true
 
 [[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:test@mail.fr"
+weight = 1
+
+[social.params]
+icon = "logo-at"
+
+
+[[social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/matteozinutti/"
+weight = 2
+
+[social.params]
+icon = "brand-linkedin"
+
+
+[[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/Toxma"
+weight = 3
 
 [social.params]
 icon = "brand-github"
 
+
 [[social]]
-identifier = "twitter"
-name = "Linkedin"
-url = "https://twitter.com"
+identifier = "cv"
+name = "Cv"
+url = "mailto:test@mail.fr"
+weight = 4
 
 [social.params]
-icon = "brand-twitter"
+icon = "file-cv"

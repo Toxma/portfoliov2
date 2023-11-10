@@ -1,30 +1,22 @@
 ---
 title: "Mon Workflow en markdown"
-description: 
+description: Voici mon environnement de travail pour optimiser ma prise de note.
 date: 2023-11-09T22:56:48Z
-image: cover.jpg
+image: cover.png
 math: 
-license: 
+license:
+slug:
 hidden: false
 comments: true
 draft: true
 tags: 
-    - markdown
 categories:
-    - themes
-    - syntax
+    - Markdown
 ---
+
+## Introduction
 
 > Le markdown est un langage de balisage créé en 2004, il a pour but d'être une syntaxe facile à lire et à écrire. Personnellement je l'utilise pour écrire mes cours, prendre des notes ou bien même pour faire les pages de mon portfolio.
-
----
-
-- [Éditeur de texte](#éditeur-de-texte)
-  - [Mes extensions](#mes-extensions)
-    - [Markdown All In One](#markdown-all-in-one)
-    - [Markdown Lint](#markdown-lint)
-    - [Markdown Preview Enhanced](#markdown-preview-enhanced)
-  - [Fichier de configuration](#fichier-de-configuration)
 
 ---
 

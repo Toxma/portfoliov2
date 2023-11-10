@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2023
 customText = ""
 
 [dateFormat]
@@ -45,11 +45,11 @@ type = "categories"
 [widgets.homepage.params]
 limit = 10
 
-[[widgets.homepage]]
-type = "tag-cloud"
+#[[widgets.homepage]]
+#type = "tag-cloud"
 
-[widgets.homepage.params]
-limit = 10
+#[widgets.homepage.params]
+#limit = 10
 
 [[widgets.page]]
 type = "toc"
@@ -75,7 +75,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]

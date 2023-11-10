@@ -3,7 +3,7 @@
 languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
-weight = 1
+weight = 2
 
 [fr]
 languageName = "French"
